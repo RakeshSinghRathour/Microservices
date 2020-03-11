@@ -40,4 +40,4 @@ management:
         include: "*"	
 
 welcome:	
-  message: "Refresh from GIT ZUUL!!!"
+  message: "Refresh from GIT ZUUL!!!!"
